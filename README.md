@@ -37,8 +37,7 @@ This project is an **Online Quiz/Test Generator** specifically designed for bioe
 
 ## Screenshots
 
-*(Optional: Paste here screenshots from Colab showing the login interface and quiz as seen by users)*
+![Bioengineering Quiz](https://github.com/user-attachments/assets/65412578-12f3-433f-8e0b-08e168556b00)
 
----
 
-Feel free to customize questions, add more features, or improve the authentication scheme to suit your course or evaluation needs!
+
